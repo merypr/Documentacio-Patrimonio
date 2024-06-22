@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="27.0" toolVersion="10.22.5">
+<ModelTarget name="relieveTextura10K" targetId="c6c4b5d1a521424fb7e75e1fbefce550" version="14.0" toolVersion="10.22.5" bbox="-0.557958 -0.267385 -0.012885 0.640355 0.257206 0.826343" previewImage="c6c4b5d1a521424fb7e75e1fbefce550_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="relieveTextura10Ks_assembly" assemblyId="d7c9426954624f4a99eb766c97422201">
+<Part name="relieveTextura10K" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="0.0414082 0.403476 1.80976" rotation="AD: 1 0.0262277 -0.0232652 96.8859" image="relieveTextura10K_GuideView_0000.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

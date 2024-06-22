@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="relieveTextura10K" motionHint="adaptive" trackingMode="scan" optimizeTrackingFor="default"/>
+
+</Tracking>
+
+<Assembly name="relieveTextura10Ks_assembly" assemblyId="d7c9426954624f4a99eb766c97422201">
+<Part name="relieveTextura10K" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="0.0414082 0.403476 1.80976" rotation="AD: 1 0.0262277 -0.0232652 96.8859" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

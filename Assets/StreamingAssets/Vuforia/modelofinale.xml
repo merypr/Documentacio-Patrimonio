@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="modelofinale" motionHint="adaptive" trackingMode="scan" optimizeTrackingFor="default"/>
+
+</Tracking>
+
+<Assembly name="modelofinales_assembly" assemblyId="8f2e18ecc634445780136e8eb3c5b92f">
+<Part name="modelofinale" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="0.0412746 0.40499 2.11284" rotation="AD: 1 0.000312387 -0.00764512 184.68" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

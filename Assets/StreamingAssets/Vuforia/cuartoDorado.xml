@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="cuartoDorado" motionHint="adaptive" trackingMode="scan" optimizeTrackingFor="default"/>
+
+</Tracking>
+
+<Assembly name="cuartoDorados_assembly" assemblyId="300991a4643d4086a6f408acd46b7e69">
+<Part name="cuartoDorado" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="-0.029129 0.312639 0.279298" rotation="AD: 1 0.0245317 -0.0207567 99.5589" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0001" translation="-0.0428995 0.322411 0.195217" rotation="AD: 0.984931 -0.521267 0.524488 102.357" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0002" translation="0.00196651 0.299809 0.331622" rotation="AD: 0.994361 0.435278 -0.332934 112.365" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0003" translation="0.0317518 0.315467 0.293847" rotation="AD: 0.900712 0.923016 -0.805696 125.319" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0004" translation="0.041176 0.317562 0.278488" rotation="AD: 0.75097 1.18796 -1.03697 138.856" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0005" translation="0.042353 0.321482 0.212064" rotation="AD: 0.402506 1.43098 -1.27258 159.268" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0006" translation="0.0293255 0.322547 0.216282" rotation="AD: -0.033888 1.57651 -1.29279 181.562" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0007" translation="-0.00678098 0.325078 0.197689" rotation="AD: -0.660749 1.3069 -1.09891 213.761" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0008" translation="-0.0335361 0.32293 0.206693" rotation="AD: 0.927363 -0.850724 0.728852 122.702" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0009" translation="-0.0311963 0.144916 0.474481" rotation="AD: 0.991815 -0.985814 0.184263 165.025" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0010" translation="-0.032482 -0.06612 0.501758" rotation="AD: 0.995357 -0.94756 -0.141143 192.251" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0011" translation="-0.0317545 0.235228 -0.0377906" rotation="AD: 0.852648 -0.831969 1.71028 99.8752" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0012" translation="-0.0313836 -0.0303196 -0.137663" rotation="AD: 1 0 0 89.2993" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0013" translation="-0.0313836 -0.276652 -0.00559667" rotation="AD: -0.84972 0.839392 1.67264 101.035" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

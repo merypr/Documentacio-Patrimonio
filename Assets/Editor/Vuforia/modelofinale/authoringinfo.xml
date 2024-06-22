@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="27.0" toolVersion="10.20.3">
+<ModelTarget name="modelofinale" targetId="6148a10bfbda441db84b373cec88ea79" version="14.0" toolVersion="10.20.3" bbox="-0.557958 -0.012885 -0.256975 0.640355 0.826343 0.267616" previewImage="6148a10bfbda441db84b373cec88ea79_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="modelofinales_assembly" assemblyId="8f2e18ecc634445780136e8eb3c5b92f">
+<Part name="modelofinale" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="0.0412746 0.40499 2.11284" rotation="AD: 1 0.000312387 -0.00764512 184.68" image="modelofinale_GuideView_0000.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>
